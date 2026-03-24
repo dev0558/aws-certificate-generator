@@ -212,7 +212,7 @@ The workflow is linear and simple enough that SQS-triggered Lambda handles it cl
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## Author
 
