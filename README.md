@@ -220,4 +220,4 @@ This project is licensed under the MIT License.
 Offensive Lab Engineer | CTF Specialist
 
 - GitHub: [@dev0558](https://github.com/dev0558)
-- LinkedIn: [Bhargav Raj Dutta](https://www.linkedin.com/in/bhargavrajdutta/)
+- LinkedIn: [Bhargav Raj Dutta](https://www.linkedin.com/in/bhargav-raj-dutta-80251a1b4/)
